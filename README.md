@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science graduate student** at the University of Maryland, College Park (GPA: 3.92/4.0), with a proven track record in building intelligent systems and deploying production-ready AI solutions. Previously, I worked as a **Software Engineer at Bajaj Finserv** in Pune, India, where I developed scalable data-driven applications and business intelligence solutions.
+I'm a **Data Science graduate student** at the University of Maryland, College Park (GPA: 3.92/4.0), with a proven track record in building intelligent systems and deploying production-ready AI solutions. Previously, I worked as a **Software Engineer at Bajaj Finserv** in Pune, India, where I developed scalable fintech solutions in a collaborative Agile environment, delivering data-driven applications for financial services.
 
 ### What I Do:
 - 🤖 **AI/ML Engineering:** Designing and deploying Large Language Models (LLMs), RAG pipelines, and multi-agent systems for intelligent automation
